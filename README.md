@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenton-Tang-HK
 - 👀 I’m interested in Artificial Intelligence and Computer Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Full Stack Development and Machine Learning
 
 <!---
 Kenton-Tang-HK/Kenton-Tang-HK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
