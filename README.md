@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenton-Tang-HK, a student in the University of Edinburgh
+- 👋 Hi, I’m @Kenton-Tang-HK, a CS student in the University of Edinburgh
 - 👀 I’m interested in Artificial Intelligence and Computer Science
 - 🌱 I’m currently learning Full Stack Development and Machine Learning
 
